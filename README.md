@@ -2,7 +2,7 @@
 
 ## Technology Stack : Java, XML
 
-## Developed Canvas
+## Developed Using Canvas
 
 ## Outputs
 
